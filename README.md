@@ -1,7 +1,6 @@
 ## Developer Mahedi Theme
 ## Official VS Code theme of Developer Mahedi! Don't stop learning. Never give up. We are made a digital world.
 
-![develoer_mahedi](https://user-images.githubusercontent.com/78359813/165241304-f938e736-6a5f-4dcc-9993-80f35a31c594.png)
 
 ![developer_mahedi_theme_banner](https://user-images.githubusercontent.com/78359813/163320848-7d0f1959-8e2a-4695-9472-6ab016965462.jpg)
 
