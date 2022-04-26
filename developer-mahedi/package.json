@@ -1,0 +1,36 @@
+{
+    "name": "developer-mahedi",
+    "displayName": "Developer Mahedi",
+    "description": "Official VS Code theme of Developer Mahedi! Don't stop learning. Never give up. We are made a digital world.",
+    "publisher": "DeveloerMahedi",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/developermahedi/developer-mahedi-theme"
+    },
+    "icon": "./images/icons/develoer_mahedi.png",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "developer mahedi",
+        "developer",
+        "mahedi",
+        "dark theme",
+        "dark",
+        "theme",
+        "cobalt2 theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Developer Mahedi Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Developer Mahedi Theme-color-theme.json"
+            }
+        ]
+    }
+}
